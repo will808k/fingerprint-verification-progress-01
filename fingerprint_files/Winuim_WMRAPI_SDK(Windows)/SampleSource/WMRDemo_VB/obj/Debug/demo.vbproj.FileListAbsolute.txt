@@ -1,0 +1,8 @@
+D:\VBFingerPrint\obj\Debug\demo.vbprojResolveAssemblyReference.cache
+D:\VBFingerPrint\obj\Debug\WMPlatformCSharpAppLocalDllDemo.Form1.resources
+D:\VBFingerPrint\obj\Debug\Resources.resources
+D:\VBFingerPrint\obj\Debug\demo.vbproj.GenerateResource.Cache
+D:\VBFingerPrint\bin\Debug\WMPlatformVBNetAppLocalDllDemo.exe
+D:\VBFingerPrint\bin\Debug\WMPlatformVBNetAppLocalDllDemo.pdb
+D:\VBFingerPrint\obj\Debug\WMPlatformVBNetAppLocalDllDemo.exe
+D:\VBFingerPrint\obj\Debug\WMPlatformVBNetAppLocalDllDemo.pdb

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\codetyphon\fpc\fpc32\bin\i386-win32\fpc.exe" Date="1248155983"/>
+  <Params Value=" -Tlinux -Px86_64 -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -FiD:\工作目录\深圳纹宁信息技术公司\指纹设备SDK\WinuimFP_SDK\Linux\发布\SampleSource\WMRDemo_FreePascal_Linux_x64\lib\x86_64-linux -FlC:\codetyphon\binLibraries\x86_64-linux -FuC:\codetyphon\typhon\lcl\units\x86_64-linux\gtk2 -FuC:\codetyphon\typhon\lcl\units\x86_64-linux -FuC:\codetyphon\typhon\components\BaseUtils\lib\x86_64-linux -FuC:\codetyphon\typhon\packager\units\x86_64-linux -FuD:\工作目录\深圳纹宁信息技术公司\指纹设备SDK\WinuimFP_SDK\Linux\发布\SampleSource\WMRDemo_FreePascal_Linux_x64\ -FUD:\工作目录\深圳纹宁信息技术公司\指纹设备SDK\WinuimFP_SDK\Linux\发布\SampleSource\WMRDemo_FreePascal_Linux_x64\lib\x86_64-linux\ -FED:\工作目录\深圳纹宁信息技术公司\指纹设备SDK\WinuimFP_SDK\Linux\发布\Demo\Linux\x64\ -dLCL -dLCLgtk2 -dUseCThreads WMRDemo_FreePascal_Linux_x64.lpr"/>
+</CONFIG>

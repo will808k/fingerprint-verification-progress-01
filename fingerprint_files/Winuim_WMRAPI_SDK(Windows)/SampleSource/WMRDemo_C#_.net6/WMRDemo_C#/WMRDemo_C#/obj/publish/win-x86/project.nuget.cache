@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jbp8oRecPOJBLa5zZqYgpt82QGJEcJQAfA3uL3m5kWoswK/ynrHZ6cS6Yw84z2Xgl5PZ8y+cXnUS7aX63Asq+A==",
+  "success": true,
+  "projectFilePath": "D:\\Winuim\\C#_WorkSpace\\WMRDemo_C#\\WMRDemo_C#\\WMRDemo_C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15077\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\15077\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}

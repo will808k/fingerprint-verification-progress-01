@@ -1,0 +1,4 @@
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\x86\Release\net6.0-windows\publish\WMRDemo.pdb
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\x86\Release\net6.0-windows\publish\SynoAPIEx.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\x86\Release\net6.0-windows\publish\WMRAPI.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\x86\Release\net6.0-windows\publish\WMRDemo.exe

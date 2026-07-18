@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="22">
+      <Unit0>
+        <Filename Value="WMRDemo_FreePascal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="46" Y="10"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="11"/>
+        <UsageCount Value="46"/>
+        <Bookmarks Count="3">
+          <Item0 X="18" Y="225" ID="8"/>
+          <Item1 X="45" Y="267" ID="7"/>
+          <Item2 X="7" Y="438" ID="9"/>
+        </Bookmarks>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\..\..\Common\DyLibFunc.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="431"/>
+        <CursorPos X="3" Y="441"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1633"/>
+        <CursorPos X="58" Y="1651"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\codetyphon\typhon\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="978"/>
+        <CursorPos X="15" Y="988"/>
+        <UsageCount Value="8"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\picture.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="582"/>
+        <CursorPos X="3" Y="587"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\..\..\..\WMR06\WMRSDK &amp; WMRAPI\WEVI2\SampleSource\WMRDemo_Delphi7\uWMRAPI.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="4"/>
+        <UsageCount Value="22"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\..\..\Common\SCSI_USB.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="2"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\codetyphon\typhon\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="955"/>
+        <CursorPos X="14" Y="972"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\..\..\..\WMR06\WMRSDK &amp; WMRAPI\WEVI2\SampleSource\WMRDemo_Delphi7\Unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\codetyphon\typhon\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="51" Y="40"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="uWMRAPI.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="37"/>
+        <UsageCount Value="21"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="353"/>
+        <CursorPos X="40" Y="372"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1302"/>
+        <CursorPos X="3" Y="1266"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfacebase.pp"/>
+        <UnitName Value="InterfaceBase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos X="15" Y="136"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\interfacebase.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <CursorPos X="3" Y="54"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\codetyphon\typhon\lcl\lmessages.pp"/>
+        <UnitName Value="LMessages"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="295"/>
+        <CursorPos X="121" Y="56"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\codetyphon\typhon\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1563"/>
+        <CursorPos X="15" Y="1578"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1482"/>
+        <CursorPos X="42" Y="1485"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\dynlibs.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\unix\dl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+    </Units>
+    <OtherDefines Count="1">
+      <Define0 Value="UseCThreads"/>
+    </OtherDefines>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>

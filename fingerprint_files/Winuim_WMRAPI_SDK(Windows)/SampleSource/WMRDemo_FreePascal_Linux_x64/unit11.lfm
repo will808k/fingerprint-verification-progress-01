@@ -1,0 +1,104 @@
+object Form1: TForm1
+  Left = 268
+  Height = 421
+  Top = 250
+  Width = 824
+  Caption = 'Form1'
+  ClientHeight = 421
+  ClientWidth = 824
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '6.0'
+  object Image1: TImage
+    Left = 26
+    Height = 248
+    Top = 28
+    Width = 289
+    PopupMenu = PopupMenu1
+  end
+  object Button1: TButton
+    Left = 334
+    Height = 25
+    Top = 29
+    Width = 75
+    Caption = 'GetDevice'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 437
+    Height = 316
+    Top = 13
+    Width = 379
+    Lines.Strings = (
+      'Memo1'
+    )
+    ScrollBars = ssVertical
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 334
+    Height = 25
+    Top = 62
+    Width = 75
+    Caption = 'Open'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 334
+    Height = 25
+    Top = 96
+    Width = 75
+    Caption = 'Enroll'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 334
+    Height = 25
+    Top = 130
+    Width = 75
+    Caption = 'Verify'
+    OnClick = Button4Click
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 334
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'Close'
+    OnClick = Button5Click
+    TabOrder = 5
+  end
+  object Label1: TLabel
+    Left = 27
+    Height = 17
+    Top = 281
+    Width = 289
+    AutoSize = False
+    Caption = 'Label1'
+    ParentColor = False
+  end
+  object CheckBox1: TCheckBox
+    Left = 28
+    Height = 21
+    Top = 7
+    Width = 93
+    Caption = 'bFlipVertical'
+    TabOrder = 6
+  end
+  object PopupMenu1: TPopupMenu
+    Left = 148
+    Top = 113
+    object MenuItem1: TMenuItem
+      Caption = 'save image'
+      OnClick = MenuItem1Click
+    end
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 221
+    Top = 102
+  end
+end

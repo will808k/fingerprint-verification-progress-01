@@ -1,0 +1,9 @@
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\WMRDemo.pdb
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\SynoAPIEx.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\WMRAPI.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\PenImc_cor3.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\PresentationNative_cor3.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\vcruntime140_cor3.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\wpfgfx_cor3.dll
+D:\Winuim\C#_WorkSpace\WMRDemo_C#\WMRDemo_C#\bin\Debug\net6.0-windows\win-x64\publish\WMRDemo.exe

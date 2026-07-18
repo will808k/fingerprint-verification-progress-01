@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fingerprint Demo — Winuim WMRAPI</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div>
+        <h1>Fingerprint Demo</h1>
+        <p class="sub">Winuim USBKey reader · 22bc:2009 · WMRAPI Linux SDK</p>
+      </div>
+      <div class="device-pill" id="devicePill">Device: unknown</div>
+    </header>
+
+    <section class="panel controls">
+      <button id="btnOpen" class="primary">Open device</button>
+      <button id="btnClose">Close device</button>
+      <button id="btnRefresh">Refresh</button>
+      <div class="meta" id="deviceMeta">—</div>
+    </section>
+
+    <div class="grid">
+      <section class="panel">
+        <h2>Enroll</h2>
+        <p class="hint">Requires 3 good presses of the same finger. Lift between presses.</p>
+        <label>User ID
+          <input id="enrollId" type="text" placeholder="e.g. teller01" autocomplete="off" />
+        </label>
+        <label>Display name
+          <input id="enrollName" type="text" placeholder="Optional name" autocomplete="off" />
+        </label>
+        <div class="row">
+          <button id="btnEnroll" class="primary">Start enrollment</button>
+          <button id="btnEnrollCancel" class="danger">Cancel</button>
+        </div>
+        <div class="progress">
+          <div class="bar" id="enrollBar"></div>
+        </div>
+        <p class="status" id="enrollStatus">Idle</p>
+        <div class="previews" id="enrollPreviews"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Verify</h2>
+        <p class="hint">Leave User ID empty for 1:N identify against the local DB.</p>
+        <label>User ID (optional, for 1:1)
+          <input id="verifyId" type="text" placeholder="blank = search all" autocomplete="off" />
+        </label>
+        <label>Match threshold
+          <input id="threshold" type="number" value="45" min="1" max="100" />
+        </label>
+        <div class="row">
+          <button id="btnVerify" class="primary">Capture &amp; verify</button>
+        </div>
+        <p class="status" id="verifyStatus">Idle</p>
+        <div class="verify-result" id="verifyResult"></div>
+        <img id="verifyPreview" class="preview-lg hidden" alt="Captured fingerprint" />
+      </section>
+    </div>
+
+    <section class="panel">
+      <div class="row between">
+        <h2>Enrolled users</h2>
+        <button id="btnClear" class="danger">Clear all</button>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Template</th>
+            <th>Created</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="userRows">
+          <tr><td colspan="5">No users yet</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <footer>
+      Run <code>sudo bash setup_device.sh</code> once, then <code>bash run_demo.sh</code>.
+      Vendor libs live in <code>libs/</code>. Templates stay in <code>data/fingerprints.db</code>.
+    </footer>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>
