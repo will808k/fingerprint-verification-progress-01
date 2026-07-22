@@ -1,0 +1,16 @@
+{
+  "name": "fingerprint-node",
+  "version": "1.0.0",
+  "description": "Winuim WMRAPI fingerprint device gateway (Express + koffi)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "koffi": "^2.10.1"
+  }
+}
